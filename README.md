@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version using RVM check ruby Version from Gemfile.
 
 * System dependencies
 
@@ -21,4 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
