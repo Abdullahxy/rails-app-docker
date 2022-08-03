@@ -8,12 +8,6 @@ RUN apk add --update \
     sqlite \
     sqlite-dev
 
-# RUN apk add --update build-base
-
-# RUN apk add musl \
-#     sqlite \
-#     sqlite-dev
-
 RUN mkdir -p /web
 
 WORKDIR /web
